@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elizabethkerubo02
-- 👀 I’m interested in MERN STACK
-- 🌱 I’m currently learning Full stack development
+- 👋 Hi, I’m @elizabethkerubo
+- 👀 I am a Fullstack Software Engineer- React.js and Ruby on rails
+- 🌱 I’m currently learning MERN STACK 
 - 
 
 <!---
